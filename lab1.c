@@ -156,6 +156,6 @@ module_init(ch_drv_init);
 module_exit(ch_drv_exit);
  
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Lisha");
+MODULE_AUTHOR("yue");
 MODULE_DESCRIPTION("OI_LAB1");
 MODULE_VERSION("0.1");
